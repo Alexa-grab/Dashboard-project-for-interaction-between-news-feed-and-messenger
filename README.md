@@ -31,7 +31,7 @@ https://karpov.courses/simulator
 **База данных**: ClickHouse  
 **BI-инструменты**: Superset, Redash  
 
-### Структура таблиц БД
+#### Структура таблиц БД
 **1. Feed_actions**
  - post_id  id поста;
  - user_id  id пользователя;
