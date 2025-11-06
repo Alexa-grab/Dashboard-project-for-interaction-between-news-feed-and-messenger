@@ -3,7 +3,7 @@
 от Karpov.Courses
 https://karpov.courses/simulator
 
-# Анализ взаимодействия продуктов: Лента новостей и Мессенджер
+# Взаимодействие ленты новостей и мессенджера: продуктовый анализ
 
 Проект анализа данных о взаимодействии 2х  продуктов приложения с визуализацией в Apache Superset.
 
@@ -31,6 +31,7 @@ https://karpov.courses/simulator
 **База данных**: ClickHouse  
 **BI-инструменты**: Superset, Redash  
 
+### Структура таблиц БД
 **1. Feed_actions**
  - post_id  id поста;
  - user_id  id пользователя;
