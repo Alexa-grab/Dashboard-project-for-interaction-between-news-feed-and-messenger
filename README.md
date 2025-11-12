@@ -33,17 +33,17 @@ https://karpov.courses/simulator
 #### Структура таблиц БД
 
 **1. Feed_actions**
- - post_id: id поста;
- - user_id: id пользователя;
- - action: совершенное действие view/like;
- - time:  время совершенного действия;
- - gender/city/country/os/source: информация о пользователе.
+ - post_id - id поста;
+ - user_id - id пользователя;
+ - action - совершенное действие view/like;
+ - time - время совершенного действия;
+ - gender/city/country/os/source - информация о пользователе.
 
 **2. Message_actions**
-- user_id: id отправителя сообщения;
-- receiver_id: id получателя сообщения;
-- time: время совершенного действия;
-- gender/city/country/os/source: информация о пользователе.
+- user_id - id отправителя сообщения;
+- receiver_id - id получателя сообщения;
+- time - время совершенного действия;
+- gender/city/country/os/source - информация о пользователе.
 
 
 ## **Дашборд**
